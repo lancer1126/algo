@@ -1,8 +1,6 @@
-package week_2022_9_26;
+package month_2022_09;
 
-import java.util.ArrayList;
 import java.util.HashSet;
-import java.util.List;
 import java.util.Set;
 
 /**
